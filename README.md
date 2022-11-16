@@ -1,4 +1,6 @@
-👋 Hi, I’m @enerGneer
+## Hi, I’m enerG! ⚡ the energetic engineer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enerGneer&show_icons=true&title_color=f4cd7c&icon_color=85bdac&bg_color=1f2430&text_color=c7c8c2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enerGneer&exclude_repo=TIL,wiki,energneer.github.io&title_color=f4cd7c&bg_color=1f2430&text_color=c7c8c2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+> Always try and be a better person than you were yesterday, cause we aren't guaranteed tomorrow.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enerGneer&show_icons=true&theme=vue&icon_color=E69A8D&bg_color=ffffff00&text_color=6A7BA2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
