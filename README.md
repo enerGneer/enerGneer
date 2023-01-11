@@ -10,7 +10,8 @@
 
 ### 🔗 Links
 
-- 📝 [Personal Site](https://energneer.vercel.app/)
-- 📔 [Personal Wiki](https://energneer.gitbook.io/wiki/) 
-- 📑 [Twitter](https://twitter.com/enerGneer) : Reading and underlining
-- ✏️ [Instagram](https://www.instagram.com/energneer.study/) : Studying japanese
+- 🗄️ [Personal Blog](https://energneer.tistory.com/)
+- 🗂️ [Personal Wiki](https://energneer.gitbook.io/wiki/)
+- 📘 [Twitter](https://twitter.com/enerGneer) : Reading and underlining
+- 📝 [Instagram](https://www.instagram.com/energneer.study/) : Studying japanese
+- ✍️ [Personal Record](https://energneer.vercel.app/) : Retrospects etc.
