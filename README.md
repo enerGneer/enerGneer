@@ -10,8 +10,7 @@
 
 ### 🔗 Links
 
-- 🗄️ [Personal Blog](https://energneer.tistory.com/)
-- 🗂️ [Personal Wiki](https://energneer.gitbook.io/wiki/)
+- 🗄️ [Personal Study Blog](https://energneer.tistory.com/) : Archives of my learnings
 - 📘 [Twitter](https://twitter.com/enerGneer) : Reading and underlining
 - 📝 [Instagram](https://www.instagram.com/energneer.study/) : Studying japanese
 - ✍️ [Personal Record](https://energneer.vercel.app/) : Retrospects etc.
