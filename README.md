@@ -2,6 +2,7 @@
 
 <!-- ⚙️ I use daily: `.js`, `.html`, `.css` -->
 - 🤍 I like to read, write, take notes and design.
+- 😊 It is my happiness to make myself a better person.
 
 
 ##### MOTTO
