@@ -11,6 +11,6 @@
 ### 🔗 Links
 
 - 🗄️ [Personal Study Blog](https://energneer.tistory.com/) : Archives of my learnings
+- 📝 [Instagram](https://www.instagram.com/energneer.study/) : Studying language(JP,KR,EN) with transcription
 - 📘 [Twitter](https://twitter.com/enerGneer) : Reading and underlining
-- 📝 [Instagram](https://www.instagram.com/energneer.study/) : Studying japanese
 - ✍️ [Personal Record](https://energneer.vercel.app/) : Retrospects etc.
