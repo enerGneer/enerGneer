@@ -9,9 +9,7 @@
 
 ### 🔗 Links
 
-- 🔖 [Personal Wiki](https://energneer.gitbook.io/wiki/) : Glossary of Terms
-- 📁 [TIL Notion page](https://energneer.notion.site/TIL-b71258ffaed2459b90760eda1cd35be8?pvs=4) : Today I Learend
 - 🗄️ [Personal Study Blog](https://energneer.tistory.com/) : Archives of my learnings
-- 📝 [Instagram](https://www.instagram.com/energneer.study/) : Studying language(JP,KR,EN) with transcription
+- 📁 [TIL Notion page](https://energneer.notion.site/TIL-b71258ffaed2459b90760eda1cd35be8?pvs=4) : Today I Learend
+- 🔖 [Personal Wiki](https://energneer.gitbook.io/wiki/) : Glossary of Terms
 - 📘 [Twitter](https://twitter.com/enerGneer) : Reading and underlining
-- ✍️ [Personal Record](https://energneer.vercel.app/) : Retrospects etc.
